@@ -5,7 +5,7 @@
 ## Agenda
   
 |  Task  |  Date  | remark |
-|  :-----| :------| :-----:|
+|  :-----: | :------: | :-----:|
 |  Hw01  | 2023/9/13  |  review the basic use of the python language |
   
 
