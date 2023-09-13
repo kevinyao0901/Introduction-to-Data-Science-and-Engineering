@@ -6,8 +6,7 @@
   
 |  Task  |  Date  | remark |
 |  :-----: | :------: | :-----:|
-|  Hw01: Dase_intro  | 2023/9/13  |  review the basic use of the python language |
-  
+|  [Hw01: Dase_intro](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Dase_intro)|2023/9/13  |  review the basic use of the python language |
 
 #### 1.Hw01 Finished
 
