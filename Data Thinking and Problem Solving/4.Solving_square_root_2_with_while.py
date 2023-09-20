@@ -1,14 +1,16 @@
-guess = 1.0
-epsilon = 0.0001  # 允许的误差范围
+def square_root():
+    c=2
+    i=0
+    g=0
+    for j in range (0,c+1):
+        if(j*j>c and g==0):
+            g=j-1
+            break
+    while(abs(g*g-c)>0.0001):
+        g+=0.0001
+        i=i+1
+        print("%d:g -%.5f" % (i,g))
 
-while True:
-    difference = abs(guess * guess - 2)  # 计算当前猜测的平方与2之间的差值
-    
-    if difference <= epsilon:  
-        break  
-    
-    guess = (guess + 2 / guess) / 2  # 使用牛顿迭代法更新猜测值
+square_root()
 
-g = guess
 
-print(g)  
