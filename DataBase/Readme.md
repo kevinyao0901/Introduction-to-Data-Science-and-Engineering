@@ -10,7 +10,7 @@ and [dangdang_books.csv](https://github.com/kevinyao0901/Introduction-to-Data-Sc
 
 All SQL Running results are in [SQL_Result](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/DataBase/SQL_Result).
 
-### Due to the reason of data,some SQL runnning result maybe empty.This is because there is no data which meet the SQl query.You can check the SQL query statement to confirm their correctness.
+~~Due to the reason of data,some SQL runnning result maybe empty.This is because there is no data which meet the SQl query.You can check the SQL query statement to confirm their correctness anyway.~~
 
 
 I also list the .png running result below for your convenience.However,you are still going to move to the .csv files if you want to check them.
