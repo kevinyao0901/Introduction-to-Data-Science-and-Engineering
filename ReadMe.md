@@ -46,7 +46,7 @@
 
   Content: practice 1-6 after chapter10 from the textbook.
 
-#### 5.Hw06 Finished
+#### 6.Hw06 Finished
 
 Recent Update:2023/10/27
 
