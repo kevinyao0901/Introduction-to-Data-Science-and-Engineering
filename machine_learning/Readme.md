@@ -50,3 +50,8 @@ This is the problem I mesioned above which ask to build a model
 ![error](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/machine_learning/results/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-27%20181444.png)
 
 ![error](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/machine_learning/results/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-27%20181515.png)
+
+practice 12_6
+
+![error](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/machine_learning/results/12_6_1.png)
+![error](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/machine_learning/results/12_6_2.png)
