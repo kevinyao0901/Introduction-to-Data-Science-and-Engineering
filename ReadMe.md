@@ -13,6 +13,7 @@
 |[Hw05:Data Analyse](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Data_analyse)|2023/10/17| numpy |
 |[Hw06:Machine_learning](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/machine_learning)|2023/10/27| cool iris |
 |[Hw07:Data_digging](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Data_digging)|2023/11/4| like the word map|
+|[Final Project](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Amazon)|2023/11/25| what a good job!|
 
 #### 1.Hw01 Finished
 
@@ -53,9 +54,13 @@
   Content: practice 5-9 after chapter11 from the textbook.
   Content: practice 4,5,7,8 after chapter12 from the textbook.
 
-#### 6.Hw07 Finished
+#### 7.Hw07 Finished
 
   Recent Update:2023/11/4
 
   Content: practice 1,2,3,8 after chapter13 from the textbook.
   Content: practice 2,3,4,5,8,9 after chapter14 from the textbook.
+
+#### 8.Final project Finished
+
+  Recent Update:2023/11/25
