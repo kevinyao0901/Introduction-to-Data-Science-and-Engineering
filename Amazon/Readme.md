@@ -4,10 +4,12 @@ This is the palce where I upload the final project for the course "Introduction 
 
 ![amazon-logo](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/amazon-logo.png)
 
-:sunny:I have chose to study the Amazon dataset which I found online.You can viewed my preliminary analysis in [basic_statistic.py](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/basic_statistic.py).For this file, I storeed the 
+:sunny:I have chose to study the Amazon dataset which I found online.
+
+Before officially starting my research, I did some preparation work to have a brief view of my data.You can viewed my preliminary analysis in [basic_statistic.py](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/basic_statistic.py).For this file, I storeed the 
 output visual pictures in [results](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Amazon/results).
 
-:sunny:For a far deep study to the data,I did the research in [data_analyse.ipynb](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/data_analyse.ipynb).You can take a look.And also I make a [display](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/results/visual_screen.png) for the data using Dataease.
+:sunny:For a far deep study of the data,I did the research in [data_analyse.ipynb](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/data_analyse.ipynb).You can take a look.And also I make a [display](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/results/visual_screen.png) for the data using Dataease.
 
 
 I will list my report & code & running result here but I recommend you to view them yourself.
