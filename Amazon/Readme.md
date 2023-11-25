@@ -1,3 +1,25 @@
+# Welcome to the final report :smile:
+
+This is the palce where I upload the final project for the course "Introduction to data science and engineering".
+
+![amazon-logo](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/amazon-logo.png)
+
+:sunny:I have chose to study the Amazon dataset which I found online.You can viewed my preliminary analysis in [basic_statistic.py](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/basic_statistic.py).For this file, I storeed the 
+output visual pictures in [results](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/tree/main/Amazon/results).
+
+:sunny:For a far deep study to the data,I did the research in [data_analyse.ipynb](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/data_analyse.ipynb).You can take a look.And also I make a [display](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/results/visual_screen.png) for the data using Dataease.
+
+
+I will list my report & code & running result here but I recommend you to view them yourself.
+
+# [basic_statistic.py](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/basic_statistic.py).
+
+# [display](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/results/visual_screen.png)
+
+![display](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/results/visual_screen.png)
+
+# [data_analyse.ipynb](https://github.com/kevinyao0901/Introduction-to-Data-Science-and-Engineering/blob/main/Amazon/data_analyse.ipynb)
+
 # 针对亚马逊消费者数据的研究
 
 随着互联网的普及和电子商务的迅速发展，消费者在线购物已经成为现代社会中不可或缺的一部分。亚马逊作为全球最大的电商平台之一，吸引了数以亿计的用户，其海量数据蕴含了丰富的信息，深入挖掘这些信息对于理解消费者行为、改进用户体验以及提升商业竞争力具有重要的意义。
